@@ -4,7 +4,7 @@
   "id": "plugin.tmdb-adult-content",
   "name": "TMDb adult content",
   "description": "Will enable include_adult parameter from TMDb API https://developers.themoviedb.org/3/search/search-movies",
-  "author": "piloupilou06",
+  "author": "Sovilor",
   "actions": [],
   "entryPointV2": "https://pastebin.com/raw/Qn2SKFeS",
   "languages": {
